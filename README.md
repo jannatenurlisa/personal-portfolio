@@ -8,12 +8,12 @@ A clean, responsive portfolio website built with HTML, CSS, and JavaScript.
 
 All content is in `index.html`. Each section is clearly commented.
 
-- **Name / Bio** — find the `hero` section, edit the `hero-name` and `hero-bio` tags
-- **Education** — find `id="education"`, edit the `card-title`, `card-sub`, `card-desc` inside each `info-card`
-- **Experience** — find `id="experience"`, same card structure
-- **Skills** — find `id="skills"`, add or remove `skill-tag` spans
-- **Projects** — find `id="projects"`, same card structure
-- **Contacts** — find `id="contacts"`, update email, phone, and social links
+- **Name / Bio** - find the `hero` section, edit the `hero-name` and `hero-bio` tags
+- **Education** - find `id="education"`, edit the `card-title`, `card-sub`, `card-desc` inside each `info-card`
+- **Experience** - find `id="experience"`, same card structure
+- **Skills** - find `id="skills"`, add or remove `skill-tag` spans
+- **Projects** - find `id="projects"`, same card structure
+- **Contacts** - find `id="contacts"`, update email, phone, and social links
 
 ---
 
